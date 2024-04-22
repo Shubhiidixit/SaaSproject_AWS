@@ -1,17 +1,17 @@
 # College Enquiry Website
 A Software-as-a-service(Saas) Project
 
-# Project Overview: 
+## Project Overview: 
 The college enquiry website with an integrated chatbot offers students a convenient and interactive platform to address their doubts and concerns regarding college or university admissions. With a user-friendly interface, students can easily navigate through the website to access detailed information about courses, academics, admission requirements, alumni and other essential aspects. The chatbot serves as a virtual assistant, allowing students to engage in real-time conversations and ask questions related to admissions.
 
-# AWS/Cloud Services used:
+## AWS/Cloud Services used:
 * Elastic Compute Cloud (EC2)
 * Elastic Load Balancer (ELB)
 * Web Application Firewall (WAF)
 * AWS Cognito
 * Cloudfront
 
-# Workflow:
+## Workflow:
 ![image](https://github.com/Shubhiidixit/SaaSproject_AWS/assets/123651074/e1e25313-b7ea-4697-be75-c0528349eace)
 
 * When a user sends a request to access the website, the request first goes through AWS WAF. This is like a security guard that checks the request for any suspicious activity or known threats like SQL injection or cross-site scripting. If the request passes the WAF's checks, it then goes to the Elastic Load Balancer. This is like a traffic controller that distributes incoming requests to multiple EC2 instances, ensuring that the website can handle a large volume of traffic and avoid downtime.
