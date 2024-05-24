@@ -1,5 +1,5 @@
 # College Enquiry Website
-A Software-as-a-service(Saas) Project
+A Software-as-a-service(Saas) Project.
 
 ## Project Overview: 
 The college enquiry website with an integrated chatbot offers students a convenient and interactive platform to address their doubts and concerns regarding college or university admissions. With a user-friendly interface, students can easily navigate through the website to access detailed information about courses, academics, admission requirements, alumni and other essential aspects. The chatbot serves as a virtual assistant, allowing students to engage in real-time conversations and ask questions related to admissions.
